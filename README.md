@@ -6,7 +6,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://i.pinimg.com/736x/be/79/9e/be799e9196162a0a3c8c6a0ad25d4808.jpg" alt="Dudu's photo" width="150" style="border-radius: 50%;" />
+</p>
 ## 🚀 About Me
 
 - 🧠 Naturally curious, always trying to understand how things work.
