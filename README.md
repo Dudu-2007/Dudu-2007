@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJlcjFheWR1djZtcm1rOGQ4cHh2OWF1Z3Z1dDZka25ibDk5dmR3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Dqaeosmm7K5yV8FWb/giphy.gifhttps://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW91b3prdmUyejVyc2lnNWtvMnZ0MW1yNzFkeW1qcmsyM2phbTd0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/utio7lyz4Ehl6/giphy.gif" alt="Cool gif" width="300" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJlcjFheWR1djZtcm1rOGQ4cHh2OWF1Z3Z1dDZka25ibDk5dmR3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Dqaeosmm7K5yV8FWb/giphy.gifhttps://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW91b3prdmUyejVyc2lnNWtvMnZ0MW1yNzFkeW1qcmsyM2phbTd0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/utio7lyz4Ehl6/giphy.gif" alt="Cool gif" width="200" />
 </p>
 
 
