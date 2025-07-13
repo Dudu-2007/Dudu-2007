@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Dudu</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Developer+in+progress;Passionate+about+technology;Learning+something+new+every+day!;Bora+cuidar!" />
-</p>
+
 
 ---
 
@@ -17,5 +15,4 @@
 
 
   <b>Thanks for stopping by! </b><br>
-  <i>"Practice makes perfect — so let's keep coding!"</i>
 </p>
